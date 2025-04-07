@@ -1,0 +1,16 @@
+{
+    "id": "255384e5-0132-4392-be53-fa5cb90c335a",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Harsh Methwani",
+        "homepage": "Harsh Methwani",
+        "support": "Harsh Methwani"
+    },
+    "name": "HugginFace",
+    "nameSlug": "hugginface",
+    "classFile": "HugginFaceApp.ts",
+    "description": "Hugging face integration app",
+    "implements": []
+}
