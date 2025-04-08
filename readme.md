@@ -8,7 +8,7 @@ This Rocket.Chat app integrates with the Hugging Face Hub to allow users to mana
     npm install -g @rocket.chat/apps-cli
   ### Setup
   - ```bash
-      rc-apps build
+      npm install
    - ```bash
      rc-apps deploy --url "http://localhost:3000" --username admin --password adminpass
   
