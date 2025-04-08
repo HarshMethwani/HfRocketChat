@@ -30,7 +30,7 @@ Saves your Hugging Face API token securely.
 ### `/hf logout`
 Removes the saved token.
 
-### `/hf list [--private]`
+### `/hf list --private`
 Lists public models by default or your private models with `--private`.
 
 ### `/hf cardchat <model>`
